@@ -1,0 +1,14 @@
+import unittest
+from tests.home.login_tests import loginTests
+from tests.home.order_placement_tests import orderPlacementTests
+from tests.home.subscription_tests import subscriptionTests
+
+#Get all the tests from the test classes
+tc1 = unittest.TestLoader().loadTestsFromTestCase(loginTests)
+tc2 = unittest.TestLoader().loadTestsFromTestCase(orderPlacementTests)
+tc3 = unittest.TestLoader().loadTestsFromTestCase(subscriptionTests)
+
+#Create a test suite combining all  test cases
+smokeTest = unittest.TestSuite([tc1, tc2])
+
+unittest.TextTestRunner(verbosity=2).run(smokeTest)
