@@ -1,0 +1,5 @@
+{
+  "login_tests.py::TestStatus": true,
+  "login_tests.py::loginTests": true,
+  "login_tests.py::loginTests::test_googleLogin": true
+}

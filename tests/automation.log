@@ -1,0 +1,104 @@
+05/02/2018 03:44:37 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:44:37 PM -LoginPage INFO: Element Found
+05/02/2018 03:44:40 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:44:41 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:44:44 PM -LoginPage INFO: Element Found with locator Login locator type: link
+05/02/2018 03:44:44 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+05/02/2018 03:44:47 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+05/02/2018 03:44:47 PM -LoginPage INFO: element with value:<selenium.webdriver.remote.webelement.WebElement (session="a5e3a6b0db430ac5ba542aa1c045e1fb", element="0.24372534863906758-3")> is found
+05/02/2018 03:44:47 PM -LoginPage INFO: move to element with id has been done
+05/02/2018 03:45:01 PM -LoginPage INFO: Element Found with locator identifierId locator type: id
+05/02/2018 03:45:02 PM -LoginPage INFO: Sending data on the element with locator: identifierId locator type: id
+05/02/2018 03:45:05 PM -LoginPage INFO: Element Found with locator .//*[@id='identifierNext']/content/span locator type: xpath
+05/02/2018 03:45:05 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='identifierNext']/content/span locator type: xpath
+05/02/2018 03:45:08 PM -LoginPage INFO: Element Found with locator .//*[@type='password'] locator type: xpath
+05/02/2018 03:45:08 PM -LoginPage INFO: Sending data on the element with locator: .//*[@type='password'] locator type: xpath
+05/02/2018 03:45:11 PM -LoginPage INFO: Element Found with locator .//*[@id='passwordNext']/content locator type: xpath
+05/02/2018 03:45:11 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='passwordNext']/content locator type: xpath
+05/02/2018 03:45:19 PM -LoginPage INFO: Element not found with locator .//*[@id='header']//span[text()='Hi jasbir'] locator type: xpath
+05/02/2018 03:45:19 PM -LoginPage INFO: Element not found
+05/02/2018 03:45:27 PM -LoginPage INFO: Element not found with locator .//*[@id='header']//span[text()='Hi jasbir'] locator type: xpath
+05/02/2018 03:45:27 PM -LoginPage INFO: Element not found
+05/02/2018 03:45:44 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:45:44 PM -LoginPage INFO: Element not found
+05/02/2018 03:45:44 PM -LoginPage INFO: Notification link is already closed
+05/02/2018 03:45:53 PM -LoginPage INFO: Element not found with locator Login locator type: link
+05/02/2018 03:45:53 PM -LoginPage INFO: Cannot click on the element with locator: Login locator type: link
+05/02/2018 03:45:56 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 03:46:04 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:46:04 PM -LoginPage INFO: Element not found
+05/02/2018 03:46:04 PM -LoginPage INFO: Notification link is already closed
+05/02/2018 03:46:12 PM -LoginPage INFO: Element not found with locator Login locator type: link
+05/02/2018 03:46:12 PM -LoginPage INFO: Cannot click on the element with locator: Login locator type: link
+05/02/2018 03:46:15 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 03:46:23 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 03:46:23 PM -LoginPage INFO: Element not found
+05/02/2018 03:46:23 PM -LoginPage INFO: Notification link is already closed
+05/02/2018 03:46:31 PM -LoginPage INFO: Element not found with locator Login locator type: link
+05/02/2018 03:46:31 PM -LoginPage INFO: Cannot click on the element with locator: Login locator type: link
+05/02/2018 03:46:34 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:07:24 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 04:07:24 PM -LoginPage INFO: Element Found
+05/02/2018 04:07:27 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 04:07:27 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 04:07:30 PM -LoginPage INFO: Element Found with locator Login locator type: link
+05/02/2018 04:07:30 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+05/02/2018 04:07:33 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:07:37 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:07:40 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:07:40 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+05/02/2018 04:07:43 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:07:43 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+05/02/2018 04:07:46 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:07:46 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:07:49 PM -LoginPage INFO: Element Found with locator .//p[contains(text(),'Email/Number or password is invalid')] locator type: xpath
+05/02/2018 04:07:49 PM -LoginPage INFO: Element Found
+05/02/2018 04:07:52 PM -LoginPage INFO: Element Found with locator .//*[@id='closeBtnId'] locator type: xpath
+05/02/2018 04:07:56 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='closeBtnId'] locator type: xpath
+05/02/2018 04:07:56 PM -TestStatus ERROR: ### VERIFICATION SUCCESSFUL :: Invalid password has been entered
+05/02/2018 04:07:56 PM -TestStatus INFO: test_invalidLogin ### TEST IS SUCCESSFUL
+05/02/2018 04:08:04 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 04:08:04 PM -LoginPage INFO: Element not found
+05/02/2018 04:08:04 PM -LoginPage INFO: Notification link is already closed
+05/02/2018 04:08:07 PM -LoginPage INFO: Element Found with locator Login locator type: link
+05/02/2018 04:08:08 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+05/02/2018 04:08:11 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:08:14 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:08:17 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:08:17 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+05/02/2018 04:08:20 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:08:20 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+05/02/2018 04:08:23 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:08:23 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:08:26 PM -LoginPage INFO: Element Found with locator .//p[contains(text(),'Email/Number or password is invalid')] locator type: xpath
+05/02/2018 04:08:26 PM -LoginPage INFO: Element Found
+05/02/2018 04:08:29 PM -LoginPage INFO: Element Found with locator .//*[@id='closeBtnId'] locator type: xpath
+05/02/2018 04:08:34 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='closeBtnId'] locator type: xpath
+05/02/2018 04:08:34 PM -TestStatus ERROR: ### VERIFICATION SUCCESSFUL :: Invalid password has been entered
+05/02/2018 04:08:34 PM -TestStatus INFO: test_invalidLogin ### TEST IS SUCCESSFUL
+05/02/2018 04:08:42 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+05/02/2018 04:08:42 PM -LoginPage INFO: Element not found
+05/02/2018 04:08:42 PM -LoginPage INFO: Notification link is already closed
+05/02/2018 04:08:46 PM -LoginPage INFO: Element Found with locator Login locator type: link
+05/02/2018 04:08:46 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+05/02/2018 04:08:49 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:08:52 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:08:55 PM -LoginPage INFO: Element Found with locator email locator type: id
+05/02/2018 04:08:55 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+05/02/2018 04:08:58 PM -LoginPage INFO: Element Found with locator password locator type: id
+05/02/2018 04:08:58 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+05/02/2018 04:09:01 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:09:01 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+05/02/2018 04:09:01 PM -TestStatus ERROR: ### VERIFICATION SUCCESSFUL :: 
+05/02/2018 04:09:06 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[text()='Hi jasbir'] locator type: xpath
+05/02/2018 04:09:06 PM -LoginPage INFO: Element Found
+05/02/2018 04:09:09 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[text()='Hi jasbir'] locator type: xpath
+05/02/2018 04:09:09 PM -LoginPage INFO: Element Found
+05/02/2018 04:09:12 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[contains(text(),'Hi')] locator type: xpath
+05/02/2018 04:09:15 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//a[contains(text(),'Logout')] locator type: xpath
+05/02/2018 04:09:15 PM -LoginPage INFO: element with value:<selenium.webdriver.remote.webelement.WebElement (session="d18eb32ff28275ccbdf5a12ca57411c8", element="0.3851643428290543-1")> is found
+05/02/2018 04:09:15 PM -LoginPage INFO: move to element with id has been done
+05/02/2018 04:09:25 PM -LoginPage INFO: element with value:<selenium.webdriver.remote.webelement.WebElement (session="d18eb32ff28275ccbdf5a12ca57411c8", element="0.3851643428290543-2")> is found
+05/02/2018 04:09:27 PM -LoginPage INFO: move to element with id has been done
+05/02/2018 04:09:37 PM -TestStatus ERROR: ### VERIFICATION SUCCESSFUL :: Login was not successful
+05/02/2018 04:09:37 PM -TestStatus INFO: test_validLogin ### TEST IS SUCCESSFUL

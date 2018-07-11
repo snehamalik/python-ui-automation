@@ -1,0 +1,7 @@
+pytest
+selenium
+pytest--xdist
+pytest--html
+pymysql
+request
+geckodriver

@@ -1,0 +1,183 @@
+04/10/2018 01:08:06 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:08:06 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:08:06 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 01:08:07 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 01:08:12 PM -LoginPage INFO: Element not found with locator //*[@id='customBtnLogin'] locator type: id
+04/10/2018 01:08:12 PM -LoginPage INFO: Cannot click on the element with locator: //*[@id='customBtnLogin'] locator type: id
+04/10/2018 01:08:31 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:08:36 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:08:37 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 01:08:42 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 01:08:42 PM -LoginPage INFO: Element Found with locator email locator type: id
+04/10/2018 01:08:42 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+04/10/2018 01:08:42 PM -LoginPage INFO: Element Found with locator password locator type: id
+04/10/2018 01:08:42 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+04/10/2018 01:08:42 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:08:47 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:08:54 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[text()='Hi jasbir.mehta220@gmail.com'] locator type: xpath
+04/10/2018 01:08:54 PM -LoginPage INFO: Element Found
+04/10/2018 01:13:11 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:13:11 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:13:11 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 01:13:12 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 01:13:12 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:13:12 PM -LoginPage INFO: Element Found
+04/10/2018 01:13:12 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:13:12 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:13:45 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:13:45 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:13:45 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 01:13:45 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 01:13:45 PM -LoginPage INFO: Element Found with locator email locator type: id
+04/10/2018 01:13:45 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+04/10/2018 01:13:45 PM -LoginPage INFO: Element Found with locator password locator type: id
+04/10/2018 01:13:45 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+04/10/2018 01:13:45 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:13:46 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:13:53 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[text()='Hi jasbir.mehta220@gmail.com'] locator type: xpath
+04/10/2018 01:13:53 PM -LoginPage INFO: Element Found
+04/10/2018 01:16:51 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:16:51 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:16:51 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 01:16:51 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 01:16:51 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:16:51 PM -LoginPage INFO: Element Found
+04/10/2018 01:16:51 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:16:51 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='customBtnLogin'] locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator Login locator type: link
+04/10/2018 01:17:09 PM -LoginPage INFO: Cannot click on the element with locator: Login locator type: link
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator email locator type: id
+04/10/2018 01:17:09 PM -LoginPage INFO: Cannot send data on the element with locator: email locator type: id
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator password locator type: id
+04/10/2018 01:17:09 PM -LoginPage INFO: Cannot send data on the element with locator: password locator type: id
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Cannot click on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found with locator .//*[@id='header']//span[text()='Hi jasbir.mehta220@gmail.com'] locator type: xpath
+04/10/2018 01:17:09 PM -LoginPage INFO: Element not found
+04/10/2018 02:01:28 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:01:28 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:01:29 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 02:01:29 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 02:01:29 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 02:01:29 PM -LoginPage INFO: Element Found
+04/10/2018 02:01:29 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 02:01:29 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 02:02:12 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:02:12 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:02:12 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 02:02:13 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 02:02:13 PM -LoginPage INFO: Element Found with locator email locator type: id
+04/10/2018 02:02:13 PM -LoginPage INFO: Sending data on the element with locator: email locator type: id
+04/10/2018 02:02:13 PM -LoginPage INFO: Element Found with locator password locator type: id
+04/10/2018 02:02:13 PM -LoginPage INFO: Sending data on the element with locator: password locator type: id
+04/10/2018 02:02:13 PM -LoginPage INFO: Element Found with locator .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 02:02:13 PM -LoginPage INFO: Clicked on the element with locator: .//*[@id='logInForm']/input locator type: xpath
+04/10/2018 02:02:20 PM -LoginPage INFO: Element Found with locator .//*[@id='header']//span[text()='Hi jasbir.mehta220@gmail.com'] locator type: xpath
+04/10/2018 02:02:20 PM -LoginPage INFO: Element Found
+04/10/2018 02:21:49 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:21:49 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 02:21:50 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 02:21:50 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 02:21:50 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 02:21:50 PM -LoginPage INFO: Element Found
+04/10/2018 02:21:50 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 02:21:50 PM -LoginPage INFO: Clicked on the element with locator: //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:07:58 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:07:59 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:07:59 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:07:59 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:10:42 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:10:42 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:10:42 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:10:42 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:10:42 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:15:04 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:15:04 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:15:04 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:15:04 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:15:04 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:29:49 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:29:50 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:29:50 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:29:50 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:29:50 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:32:12 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:32:12 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:32:12 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:32:12 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:32:13 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:32:13 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:32:13 PM -LoginPage INFO: Element Found
+04/10/2018 03:36:04 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:36:04 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:36:04 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:36:04 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:36:04 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:36:04 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:36:04 PM -LoginPage INFO: Element Found
+04/10/2018 03:36:04 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 03:39:36 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:39:36 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:39:36 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:39:36 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:39:36 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:39:36 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:39:36 PM -LoginPage INFO: Element Found
+04/10/2018 03:39:36 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 03:51:24 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:51:24 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:51:24 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:51:24 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:51:24 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:51:24 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 03:51:24 PM -LoginPage INFO: Element Found
+04/10/2018 03:51:24 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 03:54:57 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:54:57 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 03:54:57 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 03:54:57 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 03:54:57 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin']/span[1] locator type: xpath
+04/10/2018 03:54:57 PM -LoginPage INFO: Element Found with locator .//*[@id='customBtnLogin']/span[1] locator type: xpath
+04/10/2018 03:54:57 PM -LoginPage INFO: Element Found
+04/10/2018 03:54:57 PM -LoginPage INFO: Element with locator .//*[@id='customBtnLogin']/span[1] is not found
+04/10/2018 04:29:46 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 04:29:47 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 04:29:47 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 04:29:47 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 04:29:47 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 04:29:47 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 04:30:28 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 04:30:29 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 04:30:29 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 04:30:29 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 04:30:29 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 04:30:29 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 05:08:26 PM -LoginPage INFO: Element not found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:08:26 PM -LoginPage INFO: Cannot click on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:08:26 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 05:08:26 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 05:08:26 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 05:08:26 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 05:09:13 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:09:13 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:09:14 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 05:09:14 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 05:09:14 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 05:09:14 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/10/2018 05:10:54 PM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:10:54 PM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/10/2018 05:10:54 PM -LoginPage INFO: Element Found with locator Login locator type: link
+04/10/2018 05:10:54 PM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/10/2018 05:10:55 PM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/10/2018 05:10:55 PM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+04/11/2018 11:58:57 AM -LoginPage INFO: Element Found with locator //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/11/2018 11:58:57 AM -LoginPage INFO: Clicked on the element with locator: //iframe[@id='nvpush_popup_background_iframe']/following-sibling::div[@id='nvpush_cross'] locator type: xpath
+04/11/2018 11:58:57 AM -LoginPage INFO: Element Found with locator Login locator type: link
+04/11/2018 11:58:57 AM -LoginPage INFO: Clicked on the element with locator: Login locator type: link
+04/11/2018 11:58:57 AM -LoginPage INFO: Element Found with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] locator type: xpath
+04/11/2018 11:58:57 AM -LoginPage INFO: Element with locator //div[@id='tab-1-content']//div[@id='customBtnLogin']/span[text()='Google'] is not found
+
+
+
